@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.env
+venv/
+env/
+
+# macOS
+.DS_Store
+
+# Project - exclude training artifacts that are regenerated
+# NOTE: models/*.pkl and static/plots/*.png should be COMMITTED
+# so Render starts up immediately without needing to run train.py
+# Only exclude the zip archives
+*.zip
+
+# Outputs (PDF report regenerated on demand)
+outputs/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb

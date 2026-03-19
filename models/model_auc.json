@@ -1,0 +1,8 @@
+{
+  "uci_logistic_regression": 0.8824,
+  "uci_random_forest": 0.8275,
+  "uci_xgboost": 0.7934,
+  "kaggle_logistic_regression": 0.916,
+  "kaggle_random_forest": 0.8921,
+  "kaggle_xgboost": 0.8916
+}
