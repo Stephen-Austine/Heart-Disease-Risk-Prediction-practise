@@ -1,4 +1,4 @@
-# CardioScan — Heart Disease Risk Prediction
+# Heart Disease Risk Prediction
 
 A machine learning web application for early heart disease risk assessment.  
 Built as a BSc Data Science capstone project at USIU-Africa.
